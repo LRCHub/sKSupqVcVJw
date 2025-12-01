@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Blood In the Wine",
+  "base_artist": "AURORA",
+  "createdAt": "2025-12-01T06:37:04.786358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blood In The Wine",
+      "artist": "6deep",
+      "has_synced": false,
+      "path": "select/01_Blood_In_The_Wine_6deep.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blood In The Wine (Lyric Video)",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/02_Blood_In_The_Wine_(Lyric_Video)_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blood in the Wine",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/03_Blood_in_the_Wine_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blood In The Wine",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/04_Blood_In_The_Wine_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blood In The Wine [Instrumental]",
+      "artist": "Aurora",
+      "has_synced": true,
+      "path": "select/05_Blood_In_The_Wine_[Instrumental]_Aurora.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blood in the Wine",
+      "artist": "AURORA",
+      "has_synced": false,
+      "path": "select/pl_01_Blood_in_the_Wine_AURORA.txt"
+    }
+  ]
+}
